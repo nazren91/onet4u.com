@@ -45,13 +45,13 @@
   right: 20px;
 }
 .lg-actions .lg-next:before {
-  content: "\e095";
+  content: "NEXT";
 }
 .lg-actions .lg-prev {
   left: 20px;
 }
 .lg-actions .lg-prev:after {
-  content: "\e094";
+  content: "PREV";
 }
 
 @-webkit-keyframes lg-right-end {
@@ -183,10 +183,10 @@
   color: #FFF;
 }
 .lg-toolbar .lg-close:after {
-  content: "\e070";
+  content: "CLOSE";
 }
 .lg-toolbar .lg-download:after {
-  content: "\e0f2";
+  content: "DOWNLOAD";
 }
 
 .lg-sub-html {
@@ -360,7 +360,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: 50px;
 }
 .lg-outer .lg-toogle-thumb:after {
-  content: "\e1ff";
+  content: "NORMAL";
 }
 .lg-outer .lg-toogle-thumb:hover {
   color: #FFF;
